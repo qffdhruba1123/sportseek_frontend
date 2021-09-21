@@ -13,8 +13,8 @@ players.
 - To run locally, within frontend folder:
 
 ```sh
-git clone https://gitlab.lrz.de/seba-master-2021/team-21/frontend.git
-cd frontend
+git clone https://github.com/qffdhruba1123/sportseek_frontend.git
+cd sportseek_frontend
 ```
 - Install Dependencies:
 
